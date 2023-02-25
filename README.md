@@ -1,4 +1,4 @@
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
+# Hi, I'm Jeffrey 
 
 <img src="https://res.cloudinary.com/drrcyxiwu/image/upload/v1677301135/bannerImage_di12e3.png" alt="banner that says Software engineer, creative frontend devoleoper  - software engineer,  a picture of Egbadon Jeffrey">
 
