@@ -9,6 +9,6 @@ You are welcome to my code cave, this space holds my projects and raw code, I ho
 
 
 ## Find me around the web 🌎: 
-- On my portfolio at <a href="https://www.jeffrey.vercel.app">Jeffrey.dev</a> 📹 ✍🏾
+- On my portfolio at <a href="https://www.jeffrey.vercel.app">Jeffrey.vercel.app</a> 📹 ✍🏾
 - Sharing tweets on  <a href="[https://codepen.io/m0nica](https://twitter.com/theScarlettCode)"> Twitter</a> 🏓
 - Sharing updates on <a href="[https://www.linkedin.com/in/monicampowell/](https://www.linkedin.com/in/egbadon-ehizokhale-019054242/)">LinkedIn</a> 💼
