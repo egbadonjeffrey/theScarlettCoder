@@ -9,7 +9,7 @@ You are welcome to my code cave, this space holds my projects and raw code, I ho
 
 
 ## Find me around the web 🌎: 
-- On my portfolio at <a href="https://www.jeffrey.vercel.app">Jeffrey.vercel.app</a> 📹 ✍🏾
+- On my portfolio at <a href="https://www.egbadonjeffrey.vercel.app">Egbadonjeffrey.vercel.app</a> 📹 ✍🏾
 - Sharing tweets on  <a href="https://twitter.com/theScarlettCode"> Twitter</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/egbadon-ehizokhale-019054242/">LinkedIn</a> 💼
 - Sharing pictures on <a href="https://www.instagram.com/scarlettcoder/">Instagram</a> 
